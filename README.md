@@ -49,3 +49,7 @@ services:
 ![Ответ на задание 5-1](https://github.com/Francotirado/devops-1/blob/main/img/5-1.jpg)
 
 ![Ответ на задание 5-2](https://github.com/Francotirado/devops-1/blob/main/img/5-2.jpg)
+
+![Ответ на задание 5-3](https://github.com/Francotirado/devops-1/blob/main/img/5-3.jpg)
+
+![Ответ на задание 5-4](https://github.com/Francotirado/devops-1/blob/main/img/5-4.jpg)
