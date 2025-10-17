@@ -7,7 +7,7 @@ https://hub.docker.com/repository/docker/francothedwarf/custom-nginx/general
 
 # Задание 2
 
-![Ответ на задание 2](https://github.com/Francotirado/devops-1/blob/main/img/2.jpeg)
+![Ответ на задание 2](https://github.com/Francotirado/devops-1/blob/main/img/2.jpg)
 
 # Задание 3
 
@@ -15,15 +15,15 @@ https://hub.docker.com/repository/docker/francothedwarf/custom-nginx/general
 
 Так как мы сменили порт, который по стандарту слушает nginx внутри контейнера на 81, а вне его у нас установлено проксирование запроса хостового порта 8080 на порт 80 внутри контейнера, то мы получили ошибку соединения, так как по указанному маршруту ничего нет.
 
-![Ответ на задание 3-1](https://github.com/Francotirado/devops-1/blob/main/img/3-1.jpeg)
+![Ответ на задание 3-1](https://github.com/Francotirado/devops-1/blob/main/img/3-1.jpg)
 
-![Ответ на задание 3-2](https://github.com/Francotirado/devops-1/blob/main/img/3-2.jpeg)
+![Ответ на задание 3-2](https://github.com/Francotirado/devops-1/blob/main/img/3-2.jpg)
 
-![Ответ на задание 3-3](https://github.com/Francotirado/devops-1/blob/main/img/3-3.jpeg)
+![Ответ на задание 3-3](https://github.com/Francotirado/devops-1/blob/main/img/3-3.jpg)
 
 # Задание 4
 
-![Ответ на задание 4](https://github.com/Francotirado/devops-1/blob/main/img/4.jpeg)
+![Ответ на задание 4](https://github.com/Francotirado/devops-1/blob/main/img/4.jpg)
 
 # Задание 5
 
@@ -46,6 +46,6 @@ services:
 
 ```
 
-![Ответ на задание 5-1](https://github.com/Francotirado/devops-1/blob/main/img/5-1.jpeg)
+![Ответ на задание 5-1](https://github.com/Francotirado/devops-1/blob/main/img/5-1.jpg)
 
-![Ответ на задание 5-2](https://github.com/Francotirado/devops-1/blob/main/img/5-2.jpeg)
+![Ответ на задание 5-2](https://github.com/Francotirado/devops-1/blob/main/img/5-2.jpg)
